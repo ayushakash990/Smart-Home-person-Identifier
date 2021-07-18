@@ -1,7 +1,7 @@
 # Smart-Home-person-Identifier
 
- An application that will **Detect a person's identity** ringing the doorbell or standing in front of the door by taking various frames of their faces through cameras installed in  
- front of the door. After searching in the database it will tell the person name(by using **Text to speech** method) if it is matching with the Database, and if it is not matching    it will tell that the person is Unknown.
+ An application that will **Detect a person's identity** ringing the doorbell or standing in front of the door by taking various frames of their faces through cameras installed 
+ in front of the door. After searching in the database it will tell the person name(by using **Text to speech** method) if it is matching with the Database, and if it is not         matching it will tell that the person is Unknown.
  
  
  ![alt text](https://github.com/ayushakash990/Smart-Home-person-Identifier/blob/main/Images/Picture1.png?raw=true)
