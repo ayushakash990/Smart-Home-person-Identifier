@@ -20,3 +20,9 @@ Planning to make it work efficiently even if more than one person are there in t
 
 ![alt text](https://github.com/ayushakash990/Smart-Home-person-Identifier/blob/main/Images/Picture2.png?raw=true)
 ![alt text](https://github.com/ayushakash990/Smart-Home-person-Identifier/blob/main/Images/Picture3.png?raw=true)
+
+
+* # Contributors
+* <b> Ayush Akash </b> - [ayushakash990](https://github.com/ayushakash990)
+* <b> Abhinav Kumar verma </b> - [Abhinav1101](https://github.com/Abhinav1101)
+* <b> Ashish Kumar </b> - [ASHISH-KUMAR2000](https://github.com/ASHISH-KUMAR2000)
