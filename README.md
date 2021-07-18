@@ -26,4 +26,4 @@ Planning to make it work efficiently even if more than one person are there in t
 * <b> Ayush Akash </b> - [ayushakash990](https://github.com/ayushakash990)
 * <b> Abhinav Kumar verma </b> - [Abhinav1101](https://github.com/Abhinav1101)
 * <b> Ashish Kumar </b> - [ASHISH-KUMAR2000](https://github.com/ASHISH-KUMAR2000)
-* <b> Gaurav Chandra Choudhary </b> - [gaurav1-chandra](https://github.com/gaurav1-chandra)
+* <b> Gaurav Chandra Chaudhari </b> - [gaurav1-chandra](https://github.com/gaurav1-chandra)
